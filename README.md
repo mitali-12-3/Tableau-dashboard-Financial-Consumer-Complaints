@@ -1,5 +1,5 @@
 
-![IMG](https://github.com/mitali-12-3/Tableau-dashboard-Financial-Consumer-Complaints/output.png)
+![IMG](https://github.com/mitali-12-3/Tableau-dashboard-Financial-Consumer-Complaints/blob/main/output.png)
 ### 1.	Consumer Complaint Insights: Financial Services KPI Dashboard
 A concise, descriptive name for the dashboard.
 An interactive Tableau dashboard for tracking, analyzing, and visualizing U.S. financial consumer complaint data, enabling stakeholders to monitor resolution performance, identify complaint patterns, and make data-driven improvements.
