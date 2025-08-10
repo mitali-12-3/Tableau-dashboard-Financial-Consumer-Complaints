@@ -3,17 +3,17 @@
 ### 1.	Consumer Complaint Insights: Financial Services KPI Dashboard
 A concise, descriptive name for the dashboard.
 An interactive Tableau dashboard for tracking, analyzing, and visualizing U.S. financial consumer complaint data, enabling stakeholders to monitor resolution performance, identify complaint patterns, and make data-driven improvements.
-<br>
+<hr>
 ### 2.	Short Description
 The Financial Consumer Complaints KPI Dashboard visualizes over 75,000 complaint records from the financial services sector, providing actionable insights into complaint resolution timelines, dispute rates, resolution costs, and issue trends. Designed for regulatory bodies, customer service teams, and analysts, the dashboard facilitates quick identification of problem areas and performance monitoring across states and product categories.
-<br>
+<hr>
 ### 3.	Tech Stack
-The dashboard was built using the following tools and technologies:
-• 📊 Tableau Desktop – Primary platform for building the dashboard and creating visual analytics.
-• 🧹 Data Cleaning & Transformation – Performed in Tableau Prep & Excel for structuring raw CSV data.
-• 🧮 Calculated Fields – Created for KPIs such as Timely Response %, Dispute Rate %, and Resolution at No Cost.
+The dashboard was built using the following tools and technologies:<br>
+• 📊 Tableau Desktop – Primary platform for building the dashboard and creating visual analytics.<br>
+• 🧹 Data Cleaning & Transformation – Performed in Tableau Prep & Excel for structuring raw CSV data.<br>
+• 🧮 Calculated Fields – Created for KPIs such as Timely Response %, Dispute Rate %, and Resolution at No Cost.<br>
 • 📁 File Formats – .twb / .twbx for Tableau workbooks, .csv for source data.
-<br>
+<hr>
 ### 4.	Data Source
 Source: Migrated dataset of U.S. financial consumer complaints (2011–2020).
 Dataset includes 75,513 complaint records with 26 fields such as:
@@ -22,12 +22,13 @@ Submission channel (Web, Phone, Referral, etc.)
 Timely response indicators
 Dispute resolution metrics
 State and ZIP code for geographic analysis
-<br>
+<hr>
 ### 5.	Features / Highlights
 
-• Business Problem
+• Business Problem: 
 The financial services industry receives large volumes of consumer complaints, but without an organized visual system, it is difficult to track resolution efficiency, identify recurring issues, and assess dispute trends over time.
-Key questions answered:
+
+-> Key questions answered:
 1. What is the overall timely response rate?
 2. Which states and products have the highest complaints?
 3. What percentage of complaints are disputed?
